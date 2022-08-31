@@ -6,6 +6,5 @@ const frase4 = frase3.replace("mas não deixe o gato sair", "MAS NÃO DEIXE O GA
 
 console.log(frase)
 console.log(frase3)
-console.log(frase3.includes("verde"))
-console.log(frase3.includes("laranja"))
+console.log(frase3.includes("verde") , frase3.includes("laranja"))
 console.log(frase4)
